@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🥕 CarrotzCode
+# 🥕CarrotzCode
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Software+Developer;Armin+Alborzi;Building.+Learning.+Growing." alt="Typing SVG" />
 
