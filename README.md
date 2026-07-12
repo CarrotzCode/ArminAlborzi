@@ -8,9 +8,14 @@
 
 ### Technologies & Tools
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,react,wordpress&theme=dark" alt="Tech Stack" />
-</a>
+<marquee behavior="scroll" direction="left" scrollamount="5">
+  <img src="https://skillicons.dev/icons?i=html" height="50">
+  <img src="https://skillicons.dev/icons?i=css" height="50">
+  <img src="https://skillicons.dev/icons?i=js" height="50">
+  <img src="https://skillicons.dev/icons?i=react" height="50">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50">
+  <img src="https://skillicons.dev/icons?i=python" height="50">
+</marquee>
 
 <br>
 <br>
