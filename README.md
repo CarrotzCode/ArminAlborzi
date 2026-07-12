@@ -1,35 +1,13 @@
-<div class="typing">
-  <span>🥕</span>
-  <span>🥕</span>
-  <span>🥕</span>
-</div>
+# 🥕 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&width=500&lines=Software+Developer;CarrotzCode" />
 
-<style>
-.typing {
-  display: flex;
-  gap: 5px;
-}
+###Armin Alborzi
 
-.typing span {
-  animation: typing 1.4s infinite;
-}
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,react,wordpress" />
+  </a>
+</p>
 
-.typing span:nth-child(2) {
-  animation-delay: 0.2s;
-}
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarrotzCode&show_icons=true)
 
-.typing span:nth-child(3) {
-  animation-delay: 0.4s;
-}
-
-@keyframes typing {
-  0%, 60%, 100% {
-    transform: translateY(0);
-  }
-
-  30% {
-    transform: translateY(-10px);
-  }
-}
-</style>
 ### 🥕 Keep coding. Keep growing.
